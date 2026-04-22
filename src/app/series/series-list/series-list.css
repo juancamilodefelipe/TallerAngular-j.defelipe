@@ -1,0 +1,12 @@
+h2 {
+  font-size: 1.1rem;
+}
+
+tr {
+  cursor: pointer;
+}
+
+.card img {
+  height: 320px;
+  object-fit: cover;
+}
